@@ -4,6 +4,11 @@ A Twitter-like social media feed application built with **SwiftUI** and **Combin
 
 ## 🎨 Modern UI Design
 
+<img width="395" height="791" alt="Screenshot 2025-08-06 at 01 46 25" src="https://github.com/user-attachments/assets/4a2d43a5-bc67-45a3-aad0-d52166bfaf7a" />
+<img width="394" height="793" alt="Screenshot 2025-08-06 at 01 46 08" src="https://github.com/user-attachments/assets/3aed8647-bc60-4d06-8b79-d6cfbda3e94f" />
+
+
+
 ### Visual Enhancements
 - **Card-based Design**: Each post features rounded corners and subtle shadows for a modern, elevated look
 - **Circular Profile Pictures**: Enhanced user avatars with blue borders and shadows
@@ -60,6 +65,7 @@ struct FeedView: View {
 ```
 
 ### Data Flow
+
 ```mermaid
 graph TD
     A[Model Layer] -->|Combine Publishers| B[ViewModel Layer]
@@ -157,5 +163,6 @@ SocialUp demonstrates **production-ready** iOS development with:
 - ✅ **Clean Architecture**: MVVM + Combine implementation
 - ✅ **Comprehensive Testing**: Full test coverage
 - ✅ **Real-world Features**: Post creation, media support, real-time updates
+
 
 The app serves as an excellent example of modern iOS development best practices using SwiftUI and Combine for reactive programming. 
