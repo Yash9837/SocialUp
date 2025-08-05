@@ -146,9 +146,7 @@ SocialUp/
 3. **Build and run on iOS Simulator or device**
 4. **Enjoy the modern social media experience!**
 
-## 📸 Screenshots
-
-The app features:
+## 📸 The app features:
 - Modern card-based post design
 - Animated interaction buttons
 - Enhanced typography with hashtag highlighting
@@ -166,3 +164,4 @@ SocialUp demonstrates **production-ready** iOS development with:
 
 
 The app serves as an excellent example of modern iOS development best practices using SwiftUI and Combine for reactive programming. 
+
